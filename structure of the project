@@ -1,0 +1,12 @@
+PowerBI-Sales-Insights/
+├── README.md
+├── Dashboard/
+│   └── sales_insights.pbix
+├── SQL/
+│   └── data_retrieval.sql
+├── Data/
+│   ├── sales_data.csv
+│   └── profit_margin.xlsx
+└── Images/
+    ├── dashboard_overview.png
+    └── insights_page.png
